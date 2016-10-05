@@ -9,3 +9,6 @@
 body{
 background: url(images/<?php echo $selectedBg; ?>) no-repeat;
 }
+h1{
+	font-size: 3em;
+}
